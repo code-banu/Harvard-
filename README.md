@@ -1,9 +1,9 @@
 # Harvard-
 This is Harvard university site 
 
-![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
+![SharedScreenshot](https://github.com/user-attachments/assets/72fc983a-bded-4333-995b-a535896f5a34)
 
-- [Demo Project](https://code-banu.github.io/my-first-project/)
+- [Demo Project]( https://code-banu.github.io/Harvard-/)
 
 - Developed by Raheleh Banam
 
